@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Asclepius</string>
+    <string name="prediction_history">Prediction History</string>
+    <string name="save_prediction">Hasil prediksi berhasil disimpan.</string>
+    <string name="no_prediction_history">Tidak ada riwayat prediksi</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Pick Image</string>
+    <string name="analyze">Analyze</string>
+    <string name="kembali">Back</string>
+    <string name="simpan">Save</string>
+    <string name="cancer_text">Cancer Image Analyzer</string>
+    <string name="news_text">Cancer Health News</string>
+    <string name="result">Result:</string>
+    <string name="history">History</string>
+    <string name="no_image_warning">Silakan pilih gambar yang akan dianalisis terlebih dahulu.</string>
+    <string name="image_classifier_failed">Gambar tidak berhasil diprediksi.</string>
+    <string name="no_tflite_vision">TFLiteVision belum terinisialisasi secara sempurna.</string>
+    <string name="cancer_result_true">Tinjauan mendalam atas hasil analisis foto mengungkap kemungkinan adanya indikasi kanker yang memerlukan tindak lanjut dengan evaluasi medis lebih lanjut guna diagnosis yang akurat serta rencana perawatan yang tepat.</string>
+    <string name="cancer_result_false">Setelah melalui proses analisis yang teliti, tidak terdeteksi adanya tanda-tanda kanker pada foto tersebut. Meskipun begitu, untuk memastikan kepastian dan mendapatkan saran yang lebih rinci, kami sarankan untuk berkonsultasi dengan tenaga medis terkait.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
